@@ -77,5 +77,59 @@ public class HolaMundo {
 - **Yovan Irenov Bozhanov :** [Espacio para contribuciones adicionales]
 
 
+# JavaScript
+
+## Introducción
+
+JavaScript es un lenguaje de programación de alto nivel, interpretado y orientado a objetos, principalmente utilizado para añadir interactividad y dinamismo a las páginas web. Es uno de los pilares fundamentales del desarrollo web moderno, junto con HTML y CSS. Además de su uso en el navegador, JavaScript también se emplea en el desarrollo de aplicaciones móviles, servidores y aplicaciones de escritorio.
+
+## Historia
+
+- **Origen:** JavaScript fue creado por Brendan Eich en 1995 mientras trabajaba en Netscape Communications Corporation.
+- **Evolución:** Inicialmente diseñado para ser un lenguaje sencillo para añadir interactividad a las páginas web, JavaScript ha evolucionado enormemente, convirtiéndose en un lenguaje versátil y potente utilizado en una amplia gama de aplicaciones.
 
 
+## Características
+
+Algunas de las principales características de JavaScript son:
+
+- **Interpretado:** No requiere compilación, se ejecuta directamente en el navegador.
+- **Orientado a objetos:** Aunque basado en prototipos, permite la programación orientada a objetos.
+- **Asíncrono:** Soporta operaciones asíncronas mediante callbacks, promesas y async/await.
+- **Multiplataforma:** Puede ejecutarse en cualquier navegador y también en servidores (Node.js).
+
+## Herramientas y Entornos de Desarrollo (IDEs)
+
+Entre los entornos de desarrollo más populares para JavaScript se encuentran:
+
+- **Visual Studio Code**
+- **WebStorm**
+- **Atom**
+
+## Frameworks y Librerías Principales
+
+JavaScript dispone de una amplia gama de frameworks y librerías que simplifican y aceleran el desarrollo de aplicaciones. Algunos de los más destacados son:
+
+- **React:** Una librería para construir interfaces de usuario.
+- **Angular:** Un framework para el desarrollo de aplicaciones web.
+- **Vue.js:** Un framework progresivo para construir interfaces de usuario.
+- **Node.js:** Un entorno de ejecución para JavaScript en el servidor.
+
+## Ejemplo Básico
+
+A continuación, se muestra un ejemplo sencillo de un programa en JavaScript:
+
+```javascript
+console.log("¡Hola, mundo!");
+```
+
+# Referencias y Enlaces Útiles
+
+- [Documentación Oficial de JavaScript (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [Tutoriales de JavaScript (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide)
+- [Comunidades y Foros de JavaScript](https://stackoverflow.com/questions/tagged/javascript)
+
+# Colaboradores
+
+- **Billy Joshua Cornejo Flores** – Estructura base
+- **Yovan Irenov Bozhanov** - Redacción del texto de JavaScript
