@@ -97,6 +97,11 @@ JavaScript es un lenguaje de programación de alto nivel, interpretado y orienta
 - **Origen:** JavaScript fue creado por Brendan Eich en 1995 mientras trabajaba en Netscape Communications Corporation.
 - **Evolución:** Inicialmente diseñado para ser un lenguaje sencillo para añadir interactividad a las páginas web, JavaScript ha evolucionado enormemente, convirtiéndose en un lenguaje versátil y potente utilizado en una amplia gama de aplicaciones.
 
+### Versiones Importantes
+
+- **ES5 (2009):** Introdujo '*strict*' y métodos como '*forEach*', '*map*'' y '*filter*'. 
+- **ES6 (2010)** Introdujo '*let/const*', funciones de flecha, clases y promesas.
+- **ES8 (2017)** Agregó '*async/await*'
 
 ## Características
 
