@@ -99,9 +99,9 @@ JavaScript es un lenguaje de programación de alto nivel, interpretado y orienta
 
 ### Versiones Importantes
 
-- **ES5 (2009):** Introdujo '*strict*' y métodos como '*forEach*', '*map*'' y '*filter*'. 
+- **ES5 (2009):** Introdujo '*strict*' y métodos como '*forEach*', '*map*' y '*filter*'. 
 - **ES6 (2010)** Introdujo '*let/const*', funciones de flecha, clases y promesas.
-- **ES8 (2017)** Agregó '*async/await*'
+- **ES8 (2017)** Agregó '*async/await*'.
 
 ## Características
 
