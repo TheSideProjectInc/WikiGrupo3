@@ -15,6 +15,15 @@ Java es un lenguaje de programación de propósito general, orientado a objetos 
 - **Origen:** Java fue desarrollado por Sun Microsystems a mediados de la década de 1990.
 - **Evolución:** Desde su lanzamiento, Java ha evolucionado significativamente, adaptándose a las nuevas demandas tecnológicas y consolidándose en el desarrollo de aplicaciones web, móviles y de escritorio.
 
+### Versiones Importantes
+
+- **Java 8:** Introdujo expresiones lambda, API de Streams, java.time y los *default methods*
+- **Java 11:** Versión LTS[^1] con mejoras de rendimiento, limpieza de caracteristicas obsoletas.
+- **Java 17:** Versión LTS con mejoras de seguridad.
+- **Java 21:** Versión LTS actual, contiene mejoras en la sintaxis y se agergaron los hilos virtuales.
+
+[^1]: LTS(Long-Term Support) es el termino utilizado para indicar que esta version dispone de soporte a largo plazo.
+
 *[Espacio para que otros miembros amplíen la historia de Java]*
 
 ## Características
@@ -74,7 +83,7 @@ public class HolaMundo {
 
 - **Billy Joshua Cornejo Flores** – Entrada inicial y estructura base.
 - **Paul Gomez Zubizarreta:** [Espacio para contribuciones adicionales]
-- **Yovan Irenov Bozhanov :** [Espacio para contribuciones adicionales]
+- **Yovan Irenov Bozhanov :** - Apartado de Versiones Importantes
 
 
 # JavaScript
