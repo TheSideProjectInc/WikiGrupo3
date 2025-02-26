@@ -106,7 +106,9 @@ Entre los entornos de desarrollo más populares para JavaScript se encuentran:
 - **WebStorm**
 - **Atom**
 
-## Frameworks y Librerías Principales
+## Frameworks y Librerías
+
+### Principales
 
 JavaScript dispone de una amplia gama de frameworks y librerías que simplifican y aceleran el desarrollo de aplicaciones. Algunos de los más destacados son:
 
@@ -114,6 +116,13 @@ JavaScript dispone de una amplia gama de frameworks y librerías que simplifican
 - **Angular:** Un framework para el desarrollo de aplicaciones web.
 - **Vue.js:** Un framework progresivo para construir interfaces de usuario.
 - **Node.js:** Un entorno de ejecución para JavaScript en el servidor.
+- **jQuery:** Una libreria que simplifica el uso de JavaScript.
+
+### Otros
+
+- **Three.js:** Una librería que permite crear y mostrar gráficos animados en una web.
+- **Chart.js:** Una librería para la visualización de datos en graficos de barra, línea, area, etc...
+
 
 ## Ejemplo Básico
 
