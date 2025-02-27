@@ -6,7 +6,9 @@ Pequeña wikipedia desarrollada por el grupo numero 3
 
 ## Introducción
 
-Java es un lenguaje de programación de propósito general, orientado a objetos y diseñado para ser portable, robusto y seguro. Se utiliza en una amplia variedad de aplicaciones, desde aplicaciones de escritorio hasta sistemas empresariales y móviles.
+Java es un lenguaje de programación de propósito general, orientado a objetos y diseñado para ser portable, robusto y seguro. Fue creado con el principio de "escribir una vez, ejecutar en cualquier lugar" (WORA, por sus siglas en inglés), lo que significa que el código escrito en Java puede ejecutarse en cualquier plataforma que tenga una Máquina Virtual de Java (JVM) instalada.
+
+Gracias a su versatilidad y rendimiento, Java se utiliza en una amplia variedad de aplicaciones, desde aplicaciones de escritorio y sistemas empresariales hasta desarrollo web, aplicaciones móviles (especialmente en Android) y soluciones en la nube. Su ecosistema incluye una extensa colección de bibliotecas y frameworks que facilitan el desarrollo eficiente de software.
 
 > **Nota:** Esta es una entrada inicial. Los miembros del equipo pueden ampliar y complementar cada sección con más detalles y ejemplos.
 
@@ -14,6 +16,8 @@ Java es un lenguaje de programación de propósito general, orientado a objetos 
 
 - **Origen:** Java fue desarrollado por Sun Microsystems a mediados de la década de 1990.
 - **Evolución:** Desde su lanzamiento, Java ha evolucionado significativamente, adaptándose a las nuevas demandas tecnológicas y consolidándose en el desarrollo de aplicaciones web, móviles y de escritorio.
+- **Adquisición por Oracle:** En 2010, Oracle Corporation adquirió Sun Microsystems y con ello los derechos de Java, continuando su desarrollo y lanzando nuevas versiones con soporte a largo plazo (LTS).
+-**Presente y futuro:** Actualmente, Java sigue siendo uno de los lenguajes de programación más utilizados en la industria. Con actualizaciones frecuentes y una comunidad activa, sigue adaptándose a las necesidades del desarrollo moderno, incluyendo mejoras en rendimiento, compatibilidad con la nube y soporte para programación modular y reactiva.
 
 ### Versiones Importantes
 
