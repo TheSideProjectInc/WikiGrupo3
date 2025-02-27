@@ -17,7 +17,7 @@ Gracias a su versatilidad y rendimiento, Java se utiliza en una amplia variedad 
 - **Origen:** Java fue desarrollado por Sun Microsystems a mediados de la década de 1990.
 - **Evolución:** Desde su lanzamiento, Java ha evolucionado significativamente, adaptándose a las nuevas demandas tecnológicas y consolidándose en el desarrollo de aplicaciones web, móviles y de escritorio.
 - **Adquisición por Oracle:** En 2010, Oracle Corporation adquirió Sun Microsystems y con ello los derechos de Java, continuando su desarrollo y lanzando nuevas versiones con soporte a largo plazo (LTS).
--**Presente y futuro:** Actualmente, Java sigue siendo uno de los lenguajes de programación más utilizados en la industria. Con actualizaciones frecuentes y una comunidad activa, sigue adaptándose a las necesidades del desarrollo moderno, incluyendo mejoras en rendimiento, compatibilidad con la nube y soporte para programación modular y reactiva.
+- **Presente y futuro:** Actualmente, Java sigue siendo uno de los lenguajes de programación más utilizados en la industria. Con actualizaciones frecuentes y una comunidad activa, sigue adaptándose a las necesidades del desarrollo moderno, incluyendo mejoras en rendimiento, compatibilidad con la nube y soporte para programación modular y reactiva.
 
 ### Versiones Importantes
 
