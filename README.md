@@ -140,7 +140,7 @@ JavaScript dispone de una amplia gama de frameworks y librerías que simplifican
 
 - **Three.js:** Una librería que permite crear y mostrar gráficos animados en una web.
 - **Chart.js:** Una librería para la visualización de datos en graficos de barra, línea, area, etc...
-
+- **Howler.js:** Una librería que facilita el uso de audio en JavaScript.
 
 ## Ejemplo Básico
 
