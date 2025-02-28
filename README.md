@@ -156,5 +156,5 @@ console.log("¡Hola, mundo!");
 
 # Colaboradores
 
-- **Billy Joshua Cornejo Flores** – Estructura base
+- **Billy Joshua Cornejo Flores** – Estructura base para entrada
 - **Yovan Irenov Bozhanov** - Redacción del texto de JavaScript
