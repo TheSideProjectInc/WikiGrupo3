@@ -1,6 +1,6 @@
 # WikiGrupo3
-Pequeña wikipedia desarrollada por el grupo numero 3
 
+Pequeña wikipedia desarrollada por el grupo numero 3
 
 # Java
 
@@ -21,14 +21,14 @@ Gracias a su versatilidad y rendimiento, Java se utiliza en una amplia variedad 
 
 ### Versiones Importantes
 
-- **Java 8:** Introdujo expresiones lambda, API de Streams, java.time y los *default methods*
+- **Java 8:** Introdujo expresiones lambda, API de Streams, java.time y los _default methods_
 - **Java 11:** Versión LTS[^1] con mejoras de rendimiento, limpieza de caracteristicas obsoletas.
 - **Java 17:** Versión LTS con mejoras de seguridad.
 - **Java 21:** Versión LTS actual, contiene mejoras en la sintaxis y se agergaron los hilos virtuales.
 
 [^1]: LTS(Long-Term Support) es el termino utilizado para indicar que esta version dispone de soporte a largo plazo.
 
-*[Espacio para que otros miembros amplíen la historia de Java]*
+_[Espacio para que otros miembros amplíen la historia de Java]_
 
 ## Características
 
@@ -39,7 +39,7 @@ Algunas de las principales características de Java son:
 - **Seguridad:** Cuenta con robustas medidas de seguridad integradas.
 - **Gestión de memoria:** Administración automática de memoria a través del garbage collector.
 
-*Agrega más características o detalles según sea necesario.*
+_Agrega más características o detalles según sea necesario._
 
 ## Herramientas y Entornos de Desarrollo (IDEs)
 
@@ -51,7 +51,7 @@ Entre los entornos de desarrollo más populares para Java se encuentran:
 
 Estos IDEs ofrecen potentes herramientas para la depuración, compilación y gestión de proyectos en Java.
 
-*Aqui podeis añadir o incluir comparativas, ventajas o desventajas de cada uno.*
+_Aqui podeis añadir o incluir comparativas, ventajas o desventajas de cada uno._
 
 ## Frameworks Asociados
 
@@ -61,7 +61,7 @@ Java cuenta con una gran variedad de frameworks que facilitan el desarrollo de a
 - **Hibernate:** Para la gestión y mapeo de bases de datos.
 - **Struts:** Para el desarrollo de aplicaciones web basadas en el patrón MVC.
 
-*Se invita a los compañeros a añadir más frameworks o casos de uso relevantes.*
+_Se invita a los compañeros a añadir más frameworks o casos de uso relevantes._
 
 ## Ejemplo Básico
 
@@ -75,7 +75,6 @@ public class HolaMundo {
 }
 ```
 
-
 # Referencias y Enlaces Útiles
 
 - [Documentación Oficial de Java](https://docs.oracle.com/javase/)
@@ -85,10 +84,9 @@ public class HolaMundo {
 
 # Colaboradores
 
-- **Billy Joshua Cornejo Flores** – Entrada inicial y estructura base.
+- **Billy Joshua Cornejo Flores** – Entrada inicial de Java y estructura base.
 - **Paul Gomez Zubizarreta:** [Espacio para contribuciones adicionales]
 - **Yovan Irenov Bozhanov :** - Apartado de Versiones Importantes
-
 
 # JavaScript
 
@@ -103,9 +101,9 @@ JavaScript es un lenguaje de programación de alto nivel, interpretado y orienta
 
 ### Versiones Importantes
 
-- **ES5 (2009):** Introdujo '*strict*' y métodos como '*forEach*', '*map*' y '*filter*'. 
-- **ES6 (2010)** Introdujo '*let/const*', funciones de flecha, clases y promesas.
-- **ES8 (2017)** Agregó '*async/await*'.
+- **ES5 (2009):** Introdujo '_strict_' y métodos como '_forEach_', '_map_' y '_filter_'.
+- **ES6 (2010)** Introdujo '_let/const_', funciones de flecha, clases y promesas.
+- **ES8 (2017)** Agregó '_async/await_'.
 
 ## Características
 
