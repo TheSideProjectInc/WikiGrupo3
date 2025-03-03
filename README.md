@@ -158,3 +158,73 @@ console.log("¡Hola, mundo!");
 
 - **Billy Joshua Cornejo Flores** – Estructura base para entrada
 - **Yovan Irenov Bozhanov** - Redacción del texto de JavaScript
+
+# Python
+
+## Introducción
+
+Python es un lenguaje de programación interpretado, de alto nivel y con una sintaxis clara y concisa. Se utiliza en múltiples áreas, como desarrollo web, análisis de datos, inteligencia artificial, automatización y más.
+
+## Historia
+
+- **Origen:** Python fue creado por **Guido van Rossum** y lanzado en 1991.
+- **Evolución:** Ha experimentado diversas actualizaciones, con Python 2 y Python 3 siendo las versiones más destacadas. Actualmente, **Python 3** es el estándar y sigue evolucionando con mejoras en rendimiento y características modernas.
+
+## Características
+
+Algunas de las principales características de Python son:
+
+- **Sintaxis sencilla y clara:** Facilita la lectura y escritura del código.
+- **Multiparadigma:** Soporta programación orientada a objetos, funcional e imperativa.
+- **Tipado dinámico:** No es necesario declarar el tipo de las variables.
+- **Interpretado:** No requiere compilación previa, lo que agiliza el desarrollo.
+- **Gran comunidad y bibliotecas:** Existen múltiples frameworks y bibliotecas que extienden sus funcionalidades.
+
+## Herramientas y Entornos de Desarrollo (IDEs)
+
+Entre los entornos de desarrollo más populares para Python se encuentran:
+
+- **PyCharm**
+- **Visual Studio Code (VS Code)**
+- **Jupyter Notebook**
+- **IDLE** (Entorno ligero integrado con Python)
+- **Cursor** Ide con integracion de IA
+
+Estos IDEs ofrecen herramientas avanzadas para depuración, ejecución interactiva y gestión de proyectos.
+
+## Frameworks Asociados
+
+Python cuenta con numerosos frameworks que facilitan el desarrollo de aplicaciones:
+
+- **Django:** Framework web de alto nivel que permite construir aplicaciones escalables y seguras.
+- **Flask:** Framework minimalista para desarrollo web rápido.
+- **TensorFlow y PyTorch:** Para inteligencia artificial y aprendizaje automático.
+- **Pandas y NumPy:** Para análisis y manipulación de datos.
+- **FastAPI:** Para el desarrollo de APIs modernas y eficientes.
+
+## Ejemplo Básico
+
+A continuación, se muestra un ejemplo sencillo de un programa en Python:
+
+```python
+def hola_mundo():
+    print("¡Hola, mundo!")
+
+hola_mundo()
+```
+
+## Referencias y Enlaces Útiles
+
+- **Documentación Oficial de Python:** [Documentación de Python](https://docs.python.org/3/)
+- **Blogs:**
+
+  - [Real Python](https://realpython.com/)
+  - [Python Insider](https://blogs.python.org/)
+
+- **Videos:**
+  - [Corey Schafer - Python Tutorials (YouTube)](https://www.youtube.com/c/Coreyms)
+  - [Programming with Mosh - Python (YouTube)](https://www.youtube.com/c/programmingwithmosh)
+
+# Colaboradores
+
+- **Billy Joshua Cornejo Flores** – 1º Entrada de Python (historia, caracteristicas, herramientas, framework, etc, etc).
