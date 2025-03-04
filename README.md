@@ -228,3 +228,63 @@ hola_mundo()
 # Colaboradores
 
 - **Billy Joshua Cornejo Flores** – 1º Entrada de Python (historia, caracteristicas, herramientas, framework, etc, etc).
+
+# PHP
+
+## Introducción
+
+PHP es un lenguaje de programación de código abierto diseñado principalmente para el desarrollo web. Su facilidad de integración con HTML y su capacidad para interactuar con bases de datos lo han convertido en una opción popular para la creación de sitios y aplicaciones web dinámicas.
+
+Gracias a su versatilidad y rendimiento, PHP es ampliamente utilizado en plataformas como WordPress, Laravel y Symfony. A lo largo de los años, ha evolucionado incorporando características modernas como la programación orientada a objetos, el manejo de excepciones y un ecosistema de frameworks que facilitan el desarrollo de software.
+
+## Historia
+
+- **Origen:** PHP fue desarrollado por Rasmus Lerdorf en 1994 como un conjunto de scripts en C para manejar páginas web personales.
+- **Evolución:** Con el tiempo, PHP se expandió significativamente, agregando soporte para bases de datos, programación orientada a objetos y frameworks que facilitan el desarrollo de aplicaciones web.
+- **Presente y futuro:** Actualmente, PHP sigue siendo un lenguaje clave en el desarrollo web. Con actualizaciones constantes y una comunidad activa, continúa mejorando su rendimiento, seguridad y compatibilidad con nuevas tecnologías.
+
+### Versiones Importantes
+
+- **PHP 5.3:** Introdujo namespaces y funciones anónimas.
+- **PHP 7.0:** Mejoras en rendimiento y tipado escalar.
+- **PHP 8.0:** Incorporó atributos, JIT y mejoras en el manejo de errores.
+- **PHP 8.2:** Versión actual, con mejoras en tipado y rendimiento.
+
+## Características
+
+Algunas de las principales características de PHP son:
+
+- **Multiparadigma:** Soporta programación estructurada y orientada a objetos.
+- **Interpretado:** No requiere compilación, se ejecuta directamente en el servidor.
+- **Integración con bases de datos:** Compatible con MySQL, PostgreSQL, SQLite, entre otros.
+- **Portabilidad:** Funciona en la mayoría de servidores web y sistemas operativos.
+- **Comunidad activa:** Gran cantidad de recursos, frameworks y soporte.
+
+## Herramientas y Entornos de Desarrollo (IDEs)
+
+Entre los entornos de desarrollo más populares para PHP se encuentran:
+
+- **PHPStorm**
+- **Visual Studio Code**
+- **NetBeans**
+- **Eclipse PDT**
+
+Estos IDEs ofrecen herramientas avanzadas para la depuración, edición y gestión de proyectos en PHP.
+
+## Frameworks Asociados
+
+PHP cuenta con una gran variedad de frameworks que facilitan el desarrollo de aplicaciones, entre los que destacan:
+
+- **Laravel:** Framework moderno y flexible con soporte para MVC.
+- **Symfony:** Enfoque modular y escalable para proyectos grandes.
+- **CodeIgniter:** Ligero y rápido para aplicaciones simples.
+- **Zend Framework:** Potente y orientado a aplicaciones empresariales.
+
+## Ejemplo Básico
+
+A continuación, se muestra un ejemplo sencillo de un programa en PHP:
+
+```php
+<?php
+echo "¡Hola, mundo!";
+?>
