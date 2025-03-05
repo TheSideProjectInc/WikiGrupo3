@@ -38,16 +38,27 @@ Algunas de las principales características de Java son:
 - **Portabilidad:** "Write Once, Run Anywhere" permite ejecutar aplicaciones en diferentes plataformas.
 - **Seguridad:** Cuenta con robustas medidas de seguridad integradas.
 - **Gestión de memoria:** Administración automática de memoria a través del garbage collector.
+- **Multihilo:** Java permite la ejecución de múltiples hilos de manera concurrente, lo que mejora el rendimiento en aplicaciones que requieren procesamiento paralelo.
+- **Biblioteca estándar rica:** Java cuenta con una amplia biblioteca estándar (Java API), que proporciona funcionalidades listas para usar en estructuras de datos, entrada/salida, redes, concurrencia y más.
+- **Gran comunidad y soporte:** Al ser uno de los lenguajes más utilizados, Java tiene una comunidad activa y una gran cantidad de documentación, foros y recursos disponibles para los desarrolladores.
 
 _Agrega más características o detalles según sea necesario._
 
-## Herramientas y Entornos de Desarrollo (IDEs)
+## **Herramientas y Entornos de Desarrollo (IDEs)**  
 
-Entre los entornos de desarrollo más populares para Java se encuentran:
+Entre los entornos de desarrollo más populares para Java se encuentran:  
 
-- **IntelliJ IDEA**
-- **Eclipse**
-- **NetBeans**
+- **IntelliJ IDEA**  
+  - **Ventajas:** Interfaz moderna e intuitiva, soporte avanzado para frameworks como Spring y Hibernate, potente autocompletado y análisis de código.  
+  - **Desventajas:** La versión gratuita (Community) tiene menos funciones, y en proyectos grandes puede consumir muchos recursos.  
+
+- **Eclipse**  
+  - **Ventajas:** Código abierto y completamente gratuito, altamente personalizable mediante plugins, buen rendimiento en proyectos grandes.  
+  - **Desventajas:** La interfaz es menos intuitiva que la de IntelliJ, y su configuración inicial puede ser complicada.  
+
+- **NetBeans**  
+  - **Ventajas:** Instalación sencilla y configuración fácil, buena integración con Java EE y GlassFish, soporte nativo para múltiples lenguajes.  
+  - **Desventajas:** Desarrollo más lento comparado con otros IDEs, y cuenta con menos plugins y soporte que Eclipse e IntelliJ.
 
 Estos IDEs ofrecen potentes herramientas para la depuración, compilación y gestión de proyectos en Java.
 
@@ -60,6 +71,9 @@ Java cuenta con una gran variedad de frameworks que facilitan el desarrollo de a
 - **Spring Framework:** Para el desarrollo de aplicaciones empresariales.
 - **Hibernate:** Para la gestión y mapeo de bases de datos.
 - **Struts:** Para el desarrollo de aplicaciones web basadas en el patrón MVC.
+- **Jakarta EE:** Un conjunto de especificaciones para el desarrollo de aplicaciones empresariales escalables y robustas.
+- **Micronaut:** Un framework ligero y de alto rendimiento diseñado para aplicaciones en la nube y microservicios.
+- **Quarkus:** Optimizado para Kubernetes y entornos en la nube, ideal para aplicaciones con tiempos de arranque rápidos y bajo consumo de memoria.
 
 _Se invita a los compañeros a añadir más frameworks o casos de uso relevantes._
 
@@ -80,12 +94,14 @@ public class HolaMundo {
 - [Documentación Oficial de Java](https://docs.oracle.com/javase/)
 - [Tutoriales de Java en Oracle](https://docs.oracle.com/javase/tutorial/)
 - [Comunidades y Foros de Java](https://stackoverflow.com/questions/tagged/java)
+- [Tutoriales y artículos sobre Java desde conceptos básicos hasta avanzados](https://www.geeksforgeeks.org/java/)
+- [Explicaciones detalladas sobre Java, Spring y otros frameworks populares](https://www.baeldung.com)
 - Otros recursos y enlaces pueden ser agregados conforme se identifiquen más fuentes útiles.
 
 # Colaboradores
 
 - **Billy Joshua Cornejo Flores** – Entrada inicial de Java y estructura base.
-- **Paul Gomez Zubizarreta:** [Espacio para contribuciones adicionales]
+- **Paul Gomez Zubizarreta:** - Adiciones en los distintos apartados.
 - **Yovan Irenov Bozhanov :** - Apartado de Versiones Importantes
 
 # JavaScript
