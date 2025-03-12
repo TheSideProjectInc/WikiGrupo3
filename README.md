@@ -305,7 +305,7 @@ echo "¡Hola, mundo!";
 
 # Referencias y Enlaces Útiles
 
-- [Documentación Oficial de PHP]([https://docs.oracle.com/javase/](https://www.php.net/docs.php)
+- [Documentación Oficial de PHP](https://www.php.net/docs.php)
 - [Manual de PHP](https://www.php.net/manual/es/)
 - [Comunidades y Foros de PHP](https://www.php.net/support.php)
 
