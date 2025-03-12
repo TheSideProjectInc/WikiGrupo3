@@ -10,7 +10,6 @@ Java es un lenguaje de programación de propósito general, orientado a objetos 
 
 Gracias a su versatilidad y rendimiento, Java se utiliza en una amplia variedad de aplicaciones, desde aplicaciones de escritorio y sistemas empresariales hasta desarrollo web, aplicaciones móviles (especialmente en Android) y soluciones en la nube. Su ecosistema incluye una extensa colección de bibliotecas y frameworks que facilitan el desarrollo eficiente de software.
 
-> **Nota:** Esta es una entrada inicial. Los miembros del equipo pueden ampliar y complementar cada sección con más detalles y ejemplos.
 
 ## Historia
 
@@ -28,7 +27,7 @@ Gracias a su versatilidad y rendimiento, Java se utiliza en una amplia variedad 
 
 [^1]: LTS(Long-Term Support) es el termino utilizado para indicar que esta version dispone de soporte a largo plazo.
 
-_[Espacio para que otros miembros amplíen la historia de Java]_
+
 
 ## Características
 
@@ -42,7 +41,6 @@ Algunas de las principales características de Java son:
 - **Biblioteca estándar rica:** Java cuenta con una amplia biblioteca estándar (Java API), que proporciona funcionalidades listas para usar en estructuras de datos, entrada/salida, redes, concurrencia y más.
 - **Gran comunidad y soporte:** Al ser uno de los lenguajes más utilizados, Java tiene una comunidad activa y una gran cantidad de documentación, foros y recursos disponibles para los desarrolladores.
 
-_Agrega más características o detalles según sea necesario._
 
 ## **Herramientas y Entornos de Desarrollo (IDEs)**  
 
@@ -62,7 +60,6 @@ Entre los entornos de desarrollo más populares para Java se encuentran:
 
 Estos IDEs ofrecen potentes herramientas para la depuración, compilación y gestión de proyectos en Java.
 
-_Aqui podeis añadir o incluir comparativas, ventajas o desventajas de cada uno._
 
 ## Frameworks Asociados
 
@@ -75,7 +72,7 @@ Java cuenta con una gran variedad de frameworks que facilitan el desarrollo de a
 - **Micronaut:** Un framework ligero y de alto rendimiento diseñado para aplicaciones en la nube y microservicios.
 - **Quarkus:** Optimizado para Kubernetes y entornos en la nube, ideal para aplicaciones con tiempos de arranque rápidos y bajo consumo de memoria.
 
-_Se invita a los compañeros a añadir más frameworks o casos de uso relevantes._
+
 
 ## Ejemplo Básico
 
@@ -304,3 +301,14 @@ A continuación, se muestra un ejemplo sencillo de un programa en PHP:
 <?php
 echo "¡Hola, mundo!";
 ?>
+```
+
+# Referencias y Enlaces Útiles
+
+- [Documentación Oficial de PHP]([https://docs.oracle.com/javase/](https://www.php.net/docs.php)
+- [Manual de PHP](https://www.php.net/manual/es/)
+- [Comunidades y Foros de PHP](https://www.php.net/support.php)
+
+  # Colaboradores
+
+- **Paul Gómez Zubizarreta** - Entrada PHP
