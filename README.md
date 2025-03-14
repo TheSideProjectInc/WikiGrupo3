@@ -2,6 +2,12 @@
 
 Pequeña wikipedia desarrollada por el grupo numero 3
 
+# Colaboradores
+
+- **Billy Joshua Cornejo Flores** – Entrada inicial de Java y estructura base.
+- **Paul Gomez Zubizarreta:** - Adiciones en los distintos apartados.
+- **Yovan Irenov Bozhanov :** - Apartado de Versiones Importantes
+
 # Java
 
 ## Introducción
@@ -95,13 +101,13 @@ public class HolaMundo {
 - [Explicaciones detalladas sobre Java, Spring y otros frameworks populares](https://www.baeldung.com)
 - Otros recursos y enlaces pueden ser agregados conforme se identifiquen más fuentes útiles.
 
-# Colaboradores
-
-- **Billy Joshua Cornejo Flores** – Entrada inicial de Java y estructura base.
-- **Paul Gomez Zubizarreta:** - Adiciones en los distintos apartados.
-- **Yovan Irenov Bozhanov :** - Apartado de Versiones Importantes
 
 # JavaScript
+
+# Colaboradores
+
+- **Billy Joshua Cornejo Flores** – Estructura base para entrada
+- **Yovan Irenov Bozhanov** - Redacción del texto de JavaScript
 
 ## Introducción
 
@@ -167,12 +173,11 @@ console.log("¡Hola, mundo!");
 - [Tutoriales de JavaScript (MDN)](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide)
 - [Comunidades y Foros de JavaScript](https://stackoverflow.com/questions/tagged/javascript)
 
+# Python
+
 # Colaboradores
 
-- **Billy Joshua Cornejo Flores** – Estructura base para entrada
-- **Yovan Irenov Bozhanov** - Redacción del texto de JavaScript
-
-# Python
+- **Billy Joshua Cornejo Flores** – 1º Entrada de Python (historia, caracteristicas, herramientas, framework, etc, etc).
 
 ## Introducción
 
@@ -238,11 +243,12 @@ hola_mundo()
   - [Corey Schafer - Python Tutorials (YouTube)](https://www.youtube.com/c/Coreyms)
   - [Programming with Mosh - Python (YouTube)](https://www.youtube.com/c/programmingwithmosh)
 
-# Colaboradores
-
-- **Billy Joshua Cornejo Flores** – 1º Entrada de Python (historia, caracteristicas, herramientas, framework, etc, etc).
 
 # PHP
+
+# Colaboradores
+
+- **Paul Gómez Zubizarreta** - Entrada PHP
 
 ## Introducción
 
@@ -308,7 +314,3 @@ echo "¡Hola, mundo!";
 - [Documentación Oficial de PHP](https://www.php.net/docs.php)
 - [Manual de PHP](https://www.php.net/manual/es/)
 - [Comunidades y Foros de PHP](https://www.php.net/support.php)
-
-  # Colaboradores
-
-- **Paul Gómez Zubizarreta** - Entrada PHP
